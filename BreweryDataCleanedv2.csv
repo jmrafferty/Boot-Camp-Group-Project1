@@ -1,0 +1,320 @@
+,index,Trade Name,Zip,OpenYear,OpenMonth
+0,55,Catawba Valley Brewing Company,28655,2007,8
+1,62,Catawba Valley Brewing Company,28801,2016,11
+2,65,Catawba Valley Brewing Company,28204,2017,10
+3,70,Rock Bottom Restaurant and Brewery,28202,1998,3
+4,72,Olde Hickory Brewery,28602,1998,4
+5,73,Olde Hickory Brewery,28602,2000,4
+6,95,Asheville Brewing Company,28801,2006,6
+7,96,Asheville Pizza and Brewing Company,28801,2017,1
+8,101,Liberty Brewery and Grill,27262,2000,4
+9,103,Biltmore Brewing Company,28803,2010,6
+10,110,Outer Banks Brewing Station,27948,2001,7
+11,127,Sierra Nevada Brewing Company,28759,2014,9
+12,129,Natty Greenes Pub and Brewing Company,27401,2004,9
+13,131,Natty Greenes Brewing Company,27403,2007,8
+14,135,Pisgah Brewing Company,28711,2004,12
+15,139,Duck Rabbit Craft Brewery,27828,2004,11
+16,151,Foothills Brewing,27101,2005,6
+17,152,Foothills Brewing,27103,2012,2
+18,179,Weeping Radish Brewery,27947,2007,5
+19,198,Big Boss Brewing,27604,2007,8
+20,207,Andrews Brewing Company Calaboose Cellars,28901,2013,5
+21,208,Andrews Brewing Company,28901,2018,1
+22,218,Wedge Brewery,28801,2008,8
+23,226,MillerCoors,27288,2008,9
+24,229,Morgan Ridge Vineyards,28071,2014,8
+25,234,Morgan Ridge Railwalk Brewery and Eatery,28144,2017,9
+26,236,Lonerider Brewing Company,27617,2009,2
+27,243,Aviator Brewing Company,27526,2010,10
+28,245,Huske Hardware House Restaurant and Brewery,28301,2009,3
+29,256,Round Peak Vineyards,27030,2012,10
+30,260,Skull Camp Brewing,28621,2015,2
+31,272,Olde Mecklenburg Brewery,28217,2014,11
+32,283,Red Oak Brewery,27377,2009,5
+33,294,Mother Earth Brewing,28501,2011,9
+34,311,Nantahala Brewing Company,28713,2010,7
+35,323,Fullsteam Brewery,27701,2010,9
+36,334,Railhouse Brewery,28315,2010,12
+37,348,Southern Appalachian Brewery,28792,2011,4
+38,356,Frog Level Brewing Company,28786,2011,6
+39,359,Bull City Burger and Brewery,27701,2011,6
+40,367,Ass Clown Beer and Wine,28031,2012,5
+41,374,Lost Colony Brewery,27978,2018,10
+42,377,Bear Creek Brews,27207,2011,11
+43,381,Thirsty Monk South,28803,2012,2
+44,385,NoDa Brewing Company,28205,2012,2
+45,388,NoDa Brewing Company,28206,2016,11
+46,395,Birdsong Brewing Company,28206,2015,11
+47,412,Sub Noir Brewing Company,27608,2012,11
+48,422,Brevard Brewing Company,28712,2012,5
+49,438,White Street Brewing Company,27587,2012,10
+50,443,White Street Brewing Company,27596,2016,9
+51,448,Starpoint Brewing,27516,2012,10
+52,450,Starpoint Brewing,27707,2017,10
+53,457,White Rabbit Brewing Company,27501,2013,7
+54,462,Heist Brewery,28205,2013,1
+55,465,Heist Brewing Company,28206,2018,9
+56,470,Blue Mountain Pizza,28787,2013,1
+57,484,Stout Brewing Company,28086,2013,7
+58,485,Raleigh Brewing Company,27607,2013,7
+59,499,Deep River Brewing Company,27520,2013,5
+60,504,Boondocks Brewing,28694,2015,9
+61,508,Whiskey Mill Bar and Grill,28016,2013,10
+62,511,Steel String,27510,2013,7
+63,518,New Sarum Brewing Company,28144,2017,5
+64,522,Lookout Brewing Company,28711,2013,7
+65,529,Burial Beer Company,28801,2013,10
+66,530,Burial Beer Company,28803,2017,8
+67,537,Lynnwood Grill,27613,2013,10
+68,538,Oyster House Brewing Company,28806,2013,8
+69,542,Front Street Brewery,28401,2013,10
+70,545,Crank Arm Brewing Company,27601,2013,10
+71,553,Dirtbag Ales,28348,2014,11
+72,555,Dirtbag Ales Brewery and Taproom,28348,2019,11
+73,565,Lenny Boy Brewing Company,28217,2017,8
+74,568,Granite Falls Brewing Company,28630,2013,11
+75,570,Blowing Rock Brewing Company,28605,2014,2
+76,575,Blowing Rock Brewing Company,28602,2015,8
+77,581,Double Barley Brewing,27577,2014,2
+78,585,Fonta Flora Brewery,28655,2014,2
+79,588,Fonta Flora Brewery,28761,2018,11
+80,594,Innovation Brewing,28779,2014,10
+81,599,District 9 Brewing Company,28031,2014,11
+82,607,Bens Tune Up,28801,2014,8
+83,609,Unknown Brewing Company,28203,2014,10
+84,611,Bombshell Beer Company,27540,2014,2
+85,616,Broomtail Craft Brewery,28405,2014,8
+86,618,Broomtail Craft Brewery,28405,2020,1
+87,620,Beech Mountain Resort,28604,2014,8
+88,624,Fortnight Brewing,27511,2015,7
+89,637,Twin Leaf Brewery,28801,2014,10
+90,640,Small Batch Beer Company,27101,2014,8
+91,642,Brueprint Brewing Company,27502,2014,8
+92,644,One World Brewing,28801,2014,8
+93,648,One World Brewing,28806,2018,11
+94,663,Pig Pounder,27408,2014,10
+95,666,Satulah Mountain Brewing Company,28741,2015,9
+96,670,Good Hops Brewing,28428,2014,10
+97,671,Southern Pines Brewing Company,28387,2014,10
+98,676,Wilmington Brewing Company,28403,2014,10
+99,682,Gibbs Hundred Brewing Company,27405,2018,6
+100,684,Lost Province Brewing Company,28607,2014,11
+101,687,Sugar Creek Brewing Company,28217,2014,12
+102,695,Haw River Farmhouse Ales,27340,2014,11
+103,703,Flytrap Brewing,28401,2015,1
+104,710,Boojum Brewing Company,28786,2015,7
+105,715,Sycamore Brewing,28203,2015,9
+106,719,Sycamore Brewing,28206,2018,6
+107,736,Koi Pond Brewing Company,27804,2017,5
+108,746,Primal Brewery,28078,2015,9
+109,760,Brewery 99,28560,2015,12
+110,765,Lazy Hiker Brewing Company,28734,2015,5
+111,771,Ironclad Brewery,28401,2015,7
+112,778,Mill Whistle Brewing,28516,2015,7
+113,784,Preyer Brewing Company,27401,2015,9
+114,790,Four Saints Brewing Company,27203,2015,9
+115,794,Carolina Brewery and Grill,27312,2015,12
+116,800,Carolina Brewery,27516,2016,3
+117,812,Mash House Brewing Company,28303,2017,3
+118,818,Ole Dallas Brewery,28034,2016,11
+119,826,Free Range Brewing,28205,2016,11
+120,831,Booneshine Brewing Company,28607,2018,11
+121,834,Wooden Robot Brewery,28203,2016,9
+122,837,Wooden Robot Brewery,28205,2019,11
+123,846,Neuse River Brewing Company,27608,2016,11
+124,848,Hi Wire Brewing,28801,2016,11
+125,851,Hi Wire Brewing,28803,2016,11
+126,856,Oskar Blues Brewery,28712,2016,1
+127,861,Ponysaurus Brewing Company,27701,2016,10
+128,866,Newgrass Brewing Company,28150,2016,9
+129,871,Compass Rose Brewery,27615,2016,2
+130,876,Regulator Brewing Company,27278,2016,11
+131,882,Seven Jars Products,28216,2016,2
+132,884,Salud Cerveceria,28205,2017,3
+133,888,Lynnwood Brewing,27604,2016,8
+134,891,High Branch Brewing Company,28027,2016,11
+135,897,Waterline Brewing Company,28401,2016,9
+136,899,Zebulon Artisan Ales,28787,2016,9
+137,912,Sweeten Creek Brewing,28803,2017,5
+138,916,Legion Brewing,28205,2016,11
+139,918,Sanctuary Brewing Company ,28792,2016,11
+140,923,Hoppy Trout Brewing Company,28901,2017,5
+141,924,Mikes Pizza and Pasta,28792,2017,6
+142,927,Trophy Brewing,27603,2016,11
+143,931,Mills River Brewery,28704,2017,3
+144,938,Whistle Hop Brewing Company,28730,2016,9
+145,940,Brown Truck Brewery,27262,2016,10
+146,944,Appalachian Mountain Brewery,28607,2019,2
+147,948,Appalachian Mountain Brewery,28607,2019,2
+148,955,Tarboro Brewing Company,27886,2017,5
+149,958,T B C West,27886,2018,1
+150,968,Bhramari Brewhouse,28801,2016,7
+151,971,Tight Lines Pub and Brewing Company,28557,2017,6
+152,976,Bond Brothers Beer Company ,27511,2016,8
+153,980,Clouds Brewing,27609,2016,12
+154,987,Blue Ghost Brewing Company,28732,2016,11
+155,990,Southern Peak Brewery,27502,2016,9
+156,991,Cabarrus Brewing Company,28027,2017,6
+157,997,Tek Mountain Brewery,28405,2016,10
+158,1009,Bills Front Porch Pub and Brewery,28403,2017,6
+159,1012,Dreamchasers Brewery,28173,2017,6
+160,1016,Durty Bull Brewing Company,27701,2016,12
+161,1026,Ecusta Brewing Company,28768,2017,9
+162,1032,Blue Blaze Brewing,28208,2017,2
+163,1037,Joymongers Brewing Company,27401,2017,10
+164,1040,Currahee Brewing Company,28734,2016,12
+165,1044,Hickory Nut Gorge Craft Brewery,28746,2017,7
+166,1048,Thirsty Nomad Brewing,28217,2017,7
+167,1052,Red Hare Brewing Company  ,28420,2018,10
+168,1058,Dingo Dog Brewing Company,27516,2017,9
+169,1068,Angry Troll Brewing,28621,2017,7
+170,1074,Southern Range Brewing,28112,2017,9
+171,1078,Southern Range Brewing,28110,2019,11
+172,1081,Twenty Six Acres Brewing Company,28027,2017,9
+173,1082,Red Hill Brewing Company,28025,2017,9
+174,1089,Little City Brewing and Provisions Company  ,27603,2017,9
+175,1092,217 Brew Works,27893,2017,10
+176,1099,New Anthem Beer Project,28401,2017,5
+177,1109,Westbend Winery and Brewery,27023,2017,10
+178,1113,Upcountry Brewing Company ,28806,2017,9
+179,1123,Northern Outer Banks Brewing Company,27927,2018,3
+180,1128,Uptown Brewing Company,27858,2018,2
+181,1133,Brices Brewing Company,27603,2017,8
+182,1135,Wise Man Brewing,27101,2017,10
+183,1139,Brewery Bhavana,27610,2017,8
+184,1145,Mountain Layers Brewing Company,28713,2017,9
+185,1149,Gingers Revenge,28801,2018,1
+186,1154,Wrightsville Beach Brewery,28403,2017,8
+187,1157,Carolina Beverage Group,28115,2017,8
+188,1160,Jordan Lake Brewing Company,27513,2017,9
+189,1161,Hillman Beer,28803,2017,9
+190,1165,Turgua Brewing Company,28730,2017,6
+191,1170,Bold Missy Brewery,28205,2017,8
+192,1176,Cavendish Brewing Company,28052,2018,1
+193,1182,Sweet Union Brewing,28079,2017,10
+194,1185,Homeplace Beer Company,28714,2018,1
+195,1195,1718 Ocracoke Brewing,27960,2018,2
+196,1197,Mug Shotz Cafe and Quick Trigger Brewing Company,27910,2018,3
+197,1198,Eleven Lakes Brewing Company,28031,2018,1
+198,1202,Madison County Brewing Company,28753,2019,1
+199,1204,Banner Elk Brewing Company,28604,2018,1
+200,1209,Hayesville Brewing Company,28904,2018,3
+201,1213,Hayesville Brewing Company,28904,2019,1
+202,1214,Archetype Brewing,28806,2018,2
+203,1224,Wicked Weed Brewing,28801,2018,7
+204,1225,Wicked Weed Funkatorium Cultura,28801,2018,9
+205,1228,Wicked Weed Brewing,28704,2018,9
+206,1236,Wicked Weed Brewing,28715,2018,9
+207,1239,Yellow Sun Brewing Company,28139,2018,9
+208,1240,Bright Light Brewing Company,28301,2017,11
+209,1244,BearWaters Brewing Company  ,28716,2018,9
+210,1249,New Village Taproom,28571,2018,2
+211,1260,Suffolk Punch Brewing,28203,2018,1
+212,1263,Watermans Brewing,28403,2019,1
+213,1267,Mason Jar Tavern,27526,2017,12
+214,1270,Resident Culture Brewing Company,28205,2018,5
+215,1273,Thirsty Souls Community Brewing  ,27030,2018,1
+216,1275,Fiddlin Fish Brewing Company,27101,2017,10
+217,1277,Jolly Roger Brew,28117,2018,3
+218,1281,Pitt Street Brewing Company,27834,2018,1
+219,1283,Shortway Brewing Company,28532,2018,8
+220,1289,Valley River Brewery  ,28906,2018,8
+221,1292,Vicious Fishes Brewery,27501,2018,1
+222,1296,Commoners Brewing Company,28025,2018,3
+223,1299,Carolinian,27704,2018,1
+224,1301,Tobacco Road Sports Cafe,27603,2018,6
+225,1303,Fat Dogs Grille and Pub,27403,2017,12
+226,1305,Zillicoah Beer Company,28804,2018,6
+227,1309,Balsam Falls Brewing Company  ,28779,2018,9
+228,1311,Hopfly Brewing Company,27804,2018,1
+229,1314,White Labs Kitchen and Tap,28801,2018,9
+230,1317,Eluvium Brewing Company,28787,2018,3
+231,1320,Ghost Harbor Brewing Company,27909,2018,10
+232,1323,Glover Beverages,27603,2018,7
+233,1328,Hootenanny Brewing Company,28115,2018,7
+234,1330,Makai Brewing Company,28469,2018,7
+235,1335,Black Creek Brewery,27573,2018,7
+236,1338,Little Brother Brewing,27401,2018,7
+237,1339,Mica Town Brewing,28752,2018,6
+238,1348,Crystal Coast Brewing Company,28557,2018,8
+239,1349,B D D Brewing Company  ,27804,2018,11
+240,1356,Eurisko Beer Company,28801,2018,11
+241,1358,Triskelion Brewing Company,28792,2018,3
+242,1362,Edward Teach Brewing,28401,2018,9
+243,1364,Bull City Homebrew,27713,2018,10
+244,1368,Salty Turtle Beer Company,28445,2018,9
+245,1371,Seaboard Brewing Company,28105,2018,7
+246,1372,Leveneleven Brewing,27403,2018,10
+247,1375,White Elephant Beer Company,27030,2018,10
+248,1378,French Broad River Brewery,28803,2019,3
+249,1383,Hugger Mugger Brewing,27330,2018,7
+250,1388,Brutopia ,28560,2018,10
+251,1390,Divine Barrel Brewing  ,28205,2018,11
+252,1393,Glass Jug Beer Lab,27713,2018,11
+253,1396,Moon Brew ,27012,2018,11
+254,1398,Moon Brew,27282,2019,6
+255,1402,Triple C Brewing Company,28203,2018,7
+256,1404,Barrel Room at Triple C,28202,2018,7
+257,1408,All Sevens Brewing,28806,2018,9
+258,1414,Lake Gaston Brewing Company,28301,2018,10
+259,1419,Mad Mole Brewing,28403,2018,10
+260,1421,Vecino Brewing,27510,2018,10
+261,1425,Funguys Brewing ,27608,2018,10
+262,1434,Fishtowne Brew House,28516,2019,1
+263,1437,Oak City Brewing Company,27545,2018,11
+264,1439,Black Mountain Brewing,28711,2018,11
+265,1441,King Canary Brewing Company,28117,2019,2
+266,1443,Cursus  ,28803,2019,3
+267,1447,Brewers at 4001 Yancey,28217,2018,11
+268,1450,Whiteside Brewing Company,28717,2018,11
+269,1452,Oaklyn Springs Brewery  ,27526,2018,11
+270,1454,Camelback Brewing Company,27330,2018,11
+271,1457,Fermented Nonsense Brewing,28704,2019,1
+272,1460,Pilot Brewing Company,28205,2018,10
+273,1471,Skytown,28405,2019,6
+274,1474,Sideways Farm and Brewery,28729,2018,12
+275,1480,Goofy Foot Taproom and Brewery,27265,2018,11
+276,1481,Fourth Creek Brewing Company,28677,2018,11
+277,1486,Dry Falls Brewing Company,28739,2018,11
+278,1487,Sidetracked Taproom,28655,2019,1
+279,1490,Barrel Culture Brewing and Blending,27713,2018,11
+280,1495,R and R Brewing,28365,2018,11
+281,1496,Tobacco Wood Brewing Company,27565,2019,11
+282,1501,Incendiary Brewing Company,27101,2019,1
+283,1503,Flying Machine Brewing Company,28403,2019,1
+284,1505,Town Brewing Company,28208,2019,10
+285,1508,Billy Beer,27888,2019,1
+286,1512,Pinehurst Brewing Company  ,28374,2018,12
+287,1513,Panacea Brewing Company,28405,2019,6
+288,1520,Nocturnal Brewing Company,28904,2019,1
+289,1524,Guidon Brewing Company  ,28792,2019,6
+290,1525,Rocky Mount Brewery,27804,2019,6
+291,1528,Laconia Ale Works  ,28675,2019,1
+292,1533,Red Buffalo Brewing Company,28677,2019,6
+293,1534,Levee Brewery and Pub,28690,2019,6
+294,1539,Fermentation Station ,28540,2019,1
+295,1540,Thirsty Skull Brewing,27344,2019,6
+296,1545,Percent Tap House,28075,2019,6
+297,1548,Tar Banks Brewing Company ,27549,2019,9
+298,1551,Mikes Hard Lemonade Co American Vintage Bev Co,28115,2019,3
+299,1552,Old Well Brewery,28124,2019,9
+300,1556,Cotton House Craft Brewers,27511,2019,11
+301,1557,Ghostface Brewing,28115,2019,5
+302,1563,Pharr Mill Brewing Company  ,28075,2019,6
+303,1568,Kernersville Brewing Company,27284,2019,6
+304,1571,Liquid Roots Brewing Project  ,28645,2019,6
+305,1572,Forgotten Road Ales,27253,2019,6
+306,1577,Big Game Brewing,28585,2019,11
+307,1580,Burlington Beer Works  ,27215,2019,10
+308,1581,12 Bones Brewing,28704,2019,9
+309,1584,Nickelpoint Brewing Company  ,27608,2019,8
+310,1589,Wye Hill Kitchen and Brewing,27603,2019,8
+311,1592,Armored Cow Brewing,28262,2019,11
+312,1595,Bright Penny Brewing Company,27302,2019,11
+313,1596,Snowbird Mountains Brewery,28901,2019,8
+314,1599,Southern Strain Beer Company,28025,2020,1
+315,1603,New River Brewing,28694,2019,11
+316,1621,Highland Brewing Company,28803,2007,1
+317,1629,Carolina Brewing Company,27540,1995,6
+318,1632,Top of the Hill Restaurant and Brewery,27514,1996,9
